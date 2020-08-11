@@ -5,11 +5,20 @@
 <br />
 
 ## 🛠 Tecnologias
+
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+  <br />
+
+## Tela
+
+<p align="center" >
+<img src="Tela.png" alt="tela" width="475"/> 
+</p>
 <br />
 
 ## Lista de tarefas
+
 - [x] Header
 - [ ] Banner
 - [ ] Barra superior
