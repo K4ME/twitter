@@ -13,7 +13,7 @@
 ## Tela
 
 <p align="center" >
-<img src="Tela.png" alt="tela" width="475"/> 
+<img src="Tela.PNG" alt="tela" width="475"/> 
 </p>
 <br />
 
