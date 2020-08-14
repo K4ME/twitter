@@ -13,15 +13,15 @@
 ## Tela
 
 <p align="center" >
-<img src="Tela.png" alt="tela" width="475"/> 
+<img src="images/Tela.png" alt="tela" width="600"/> 
 </p>
 <br />
 
 ## Lista de tarefas
 
 - [x] Header
-- [ ] Banner
-- [ ] Barra superior
-- [ ] Profile
+- [x] Banner
+- [x] Barra superior
+- [x] Profile
 - [ ] Widgets
 - [ ] Timeline
