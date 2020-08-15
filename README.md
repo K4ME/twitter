@@ -6,8 +6,9 @@
 
 ## 🛠 Tecnologias
 
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
   <br />
 
 ## Tela
@@ -23,5 +24,5 @@
 - [x] Banner
 - [x] Barra superior
 - [x] Profile
-- [ ] Widgets
-- [ ] Timeline
+- [x] Widgets
+- [x] Timeline
